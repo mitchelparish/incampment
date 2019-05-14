@@ -4,6 +4,8 @@ Incampment is a campsite logging app that allows users to establish and share ca
 
 Users have the option to create credentials unique to the app or to utilize third party authorization via Omniauth and Github - because all friends worth having have a Github account.
 
+See the [second version](https://github.com/mitchelparish/incampment-with-js) - now with (minimal) JavaScript!
+
 ## Getting Started
 
 To run a local version of Incampment clone the repo and run `bundle install`. `rails db:seed` followed by `rails db:migrate` to create a local database and then use `rails s` to initialize a server, the app will then be available to you on `localhost:3000`.
